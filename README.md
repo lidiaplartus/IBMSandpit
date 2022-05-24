@@ -1,2 +1,2 @@
 # IBMSandpit
-repository for during and following the IBM course
+repository for working during, and following the IBM course
